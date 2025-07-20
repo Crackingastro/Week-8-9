@@ -94,7 +94,7 @@ WEEK-8-9/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-repo/fraud-detection.git
+   git clone https://github.com/Crackingastro/Week-8-9
    cd fraud-detection
    ```
 
